@@ -1,0 +1,22 @@
+.item-list {
+    margin: 24px 0;
+}
+
+.item-list strong {
+  color: #539bf5;
+  font-size: 24px;
+  font-family: "Roboto";
+  margin: 24px 0;
+}
+
+.item-list p {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: "Roboto";
+  margin: 24px 0; 
+}
+
+a {
+  text-decoration: none;
+  color: #539bf5;
+}
