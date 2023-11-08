@@ -1,7 +1,7 @@
 import Header from "../../components/Header";
 import github from "../../../src/assets/github.png";
 import "./styles.css";
-import ItemList from "../../components/IntemList";
+import ItemList from "../../components/ItemList";
 import { useState } from "react";
 
 function App() {
